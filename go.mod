@@ -26,7 +26,7 @@ require (
 	github.com/sagernet/quic-go v0.0.0-20230202071646-a8c8afb18b32
 	github.com/sagernet/reality v0.0.0-20230323230523-5fa25e693e7f
 	github.com/sagernet/sing v0.2.1
-	github.com/sagernet/sing-dns v0.1.5-0.20230324014656-cc070d645ee7
+	github.com/sagernet/sing-dns v0.1.5-0.20230325044541-1b3c42d0e1b7
 	github.com/sagernet/sing-shadowsocks v0.2.0
 	github.com/sagernet/sing-shadowtls v0.1.0
 	github.com/sagernet/sing-tun v0.1.4-0.20230324082220-ca53ccf346b5
